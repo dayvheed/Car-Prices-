@@ -8,7 +8,7 @@ colorama==0.4.4
 configparser==5.0.1
 crayons==0.4.0
 distlib==0.3.1
-Django==3.2
+Django==3.2.14
 filelock==3.0.12
 Flask==1.1.2
 idna==2.10
